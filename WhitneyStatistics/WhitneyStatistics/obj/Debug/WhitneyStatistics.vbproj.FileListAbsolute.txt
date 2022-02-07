@@ -1,0 +1,93 @@
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\Whitney Statistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\Whitney Statistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\Whitney Statistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\Whitney Statistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\Whitney Statistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\Whitney Statistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\Whitney Statistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.xml
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe.config
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.exe
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.xml
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.pdb
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.pdb
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.xml
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.dll
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.dll
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.EF6.dll
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.Linq.dll
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.xml
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.xml
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Main.resources
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Resources.resources
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbproj.GenerateResource.Cache
+E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbprojResolveAssemblyReference.cache

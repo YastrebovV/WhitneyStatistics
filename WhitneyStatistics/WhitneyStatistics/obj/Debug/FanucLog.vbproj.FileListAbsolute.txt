@@ -1,0 +1,369 @@
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Form1.resources
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Pass.resources
+E:\Папка Славы\Проекты C#\Слава\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Form1.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Pass.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Form1.resources
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Pass.resources
+H:\C#\Рабочие26_03_2017\FanucWhitney\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Form1.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Pass.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney06.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Form1.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Pass.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney26.04.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Form1.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Pass.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney09.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Login.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Login.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney21.05.2017work\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Login.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\Папка Славы\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Login.resources
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+E:\SlavaFiles\Проекты C#\Рабочие\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Login.resources
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\СЛАВА\C#\100%work\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Login.resources
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+D:\c#\100%work на 23.11.2018\FanucWhitney25.05.2017time_no_system\FanucLog\FanucLog\FanucLog\bin\Debug\MySql.Data.dll
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\bin\Debug\MySql.Data.dll
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Login.resources
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\c#\100%work на 23.11.2018\FanucWhitney24.11.2018_MySql\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\c#\100%work на 23.11.2018\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+D:\c#\100%work на 23.11.2018\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+D:\c#\100%work на 23.11.2018\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+D:\c#\100%work на 23.11.2018\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney25.11.2018_MySql+\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe.config
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.exe
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.xml
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.pdb
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.exe
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.pdb
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\FanucLog.xml
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\СЛАВА\C#\100%work\WEBPROJECT\FanucWhitney_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\СЛАВА\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_04.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\Ястребов\C#\100%work\WEBPROJECT\WhitneyStatistics_08.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\c#\WEBPROJECT\WhitneyStatistics_09.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\c#\WEBPROJECT\WhitneyStatistics_09.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_09.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_09.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\c#\WEBPROJECT\WhitneyStatistics_18.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\c#\WEBPROJECT\WhitneyStatistics_23.12.2018\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\c#\WEBPROJECT\WhitneyStatistics_08.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\c#\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_20.01.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\PROGRAMMING\C#  Projects\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_16.02.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Debug\FanucLog.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Debug\Whitney Statistics.exe.config

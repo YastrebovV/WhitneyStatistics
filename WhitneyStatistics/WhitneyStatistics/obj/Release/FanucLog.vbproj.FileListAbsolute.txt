@@ -1,0 +1,44 @@
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\bin\Release\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.vbprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.About.resources
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_27.07.2019\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.About.resources
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\WEBPROJECT\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\FanucLog.vbprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\bin\Release\WhitneyStatistics.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.exe
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.xml
+D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_23.04.2020\FanucLog\FanucLog\FanucLog\obj\Release\WhitneyStatistics.pdb

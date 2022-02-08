@@ -59,3 +59,40 @@
 Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:13000 - 05.02.2022 19:43:28 - Send_To_Server
 Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:13000 - 05.02.2022 19:48:42 - Send_To_Server
 Program closing
+Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:13000 - 08.02.2022 17:47:10 - Send_To_Server
+DataReader already active on this command - 08.02.2022 18:03:07 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:09 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:10 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:12 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:12 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:18 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:19 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:19 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:20 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:21 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:22 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:24 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:30 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:31 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:33 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:34 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:35 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:40 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:41 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:42 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:42 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:43 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:44 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:46 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:48 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:49 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:50 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:50 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:51 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:52 - LocalDBToServerDB
+DataReader already active on this command - 08.02.2022 18:03:52 - LocalDBToServerDB
+No current row - 08.02.2022 18:05:50 - LocalDBToServerDB
+No current row - 08.02.2022 18:05:52 - LocalDBToServerDB
+No current row - 08.02.2022 18:05:54 - LocalDBToServerDB
+No current row - 08.02.2022 18:05:55 - LocalDBToServerDB
+No current row - 08.02.2022 18:05:56 - LocalDBToServerDB

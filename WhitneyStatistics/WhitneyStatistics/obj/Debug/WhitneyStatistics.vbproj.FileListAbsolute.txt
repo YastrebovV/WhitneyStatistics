@@ -91,3 +91,22 @@ E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\Whitne
 E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Resources.resources
 E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbproj.GenerateResource.Cache
 E:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.3\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbprojResolveAssemblyReference.cache
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe.config
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.exe
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\Whitney Statistics.pdb
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Main.resources
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.Resources.resources
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbproj.GenerateResource.Cache
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.exe
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.pdb
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\Whitney Statistics.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.EF6.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.Linq.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Debug\System.Data.SQLite.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Debug\WhitneyStatistics.vbprojResolveAssemblyReference.cache

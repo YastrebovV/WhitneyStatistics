@@ -32,7 +32,7 @@ Public Class Main
     numprog As Focas1.ODBPRO, seqnum As Focas1.ODBSEQ,
     numvar As String, macronum As Focas1.ODBM, station_Id As String, host As String, port As Int32, portStatus As Int32,
     port_local_to_server As Int32,
-    client As TcpClient, countNoConn As Int32, ServerConnect As Boolean,
+    client As TcpClient, ServerConnect As Boolean,
     t_status As String, num_cmd As Short, odbcommand As Focas1.ODBCMD, plasma_on As Boolean,
     odbsp As Focas1.ODBSPEED, time_speed_null As Int32, speed_null_bool As Boolean, stop_speed As Boolean,
     debugOnOff As Boolean, errorToServer As Boolean
@@ -486,31 +486,39 @@ Public Class Main
         End Try
     End Sub 'добавление в локальную базу статуса
     Private Sub LocalDBToServerDB()
-        Dim dbConnection As SQLiteConnection, sqlCommand As SQLiteCommand
+        Dim dbConnection As SQLiteConnection, sqlCommand As SQLiteCommand, countTable As Int32
         Try
             dbConnection = New SQLiteConnection("Data Source=" + Application.StartupPath + "\Statistics.sqlite ;Version=3;")
             dbConnection.Open()
             sqlCommand = New SQLiteCommand()
             sqlCommand.Connection = dbConnection
 
-            For index = 1 To countNoConn
-                sqlCommand.CommandText = "SELECT [station_id], [time], [text], [ProgNum] FROM  line_data WHERE [id] = " + Convert.ToString(index)
+            sqlCommand.CommandText = "SELECT count(id) FROM  line_data"
+            Using dr As IDataReader = sqlCommand.ExecuteReader()
+                If dr.Read() Then
+                    countTable = dr.GetInt32(0)
+                End If
+            End Using
+
+            If countTable > 0 Then
+                sqlCommand.CommandText = "SELECT [id], [station_id], [time], [text], [ProgNum] FROM  line_data"
                 Using dr As SQLiteDataReader = sqlCommand.ExecuteReader()
                     While dr.Read()
-                        Send_To_Server(dr.GetValue(0).ToString() + "," + dr.GetValue(1).ToString() + "," + dr.GetValue(2).ToString() + "," + dr.GetValue(3).ToString(), host, port_local_to_server)
+                        Send_To_Server(dr.GetValue(1).ToString() + "," + dr.GetValue(2).ToString() + "," + dr.GetValue(3).ToString() + "," + dr.GetValue(4).ToString(), host, port_local_to_server)
                     End While
+                    CliarLocalDB("line_data")
                 End Using
-            Next index
 
-            For index = 1 To countNoConn
-                sqlCommand.CommandText = "SELECT [station_id], [time], [status] FROM  status WHERE [id] = " + Convert.ToString(index)
+                sqlCommand.CommandText = "SELECT [station_id], [time], [status] FROM  status"
                 Using dr As SQLiteDataReader = sqlCommand.ExecuteReader()
-                    While dr.Read()
-                        Send_To_Server(dr.GetValue(0).ToString() + "," + dr.GetValue(1).ToString() + "," + dr.GetValue(2).ToString(), host, port_local_to_server)
-                    End While
+                    If dr.StepCount > 0 Then
+                        While dr.Read()
+                            Send_To_Server(dr.GetValue(0).ToString() + "," + dr.GetValue(1).ToString() + "," + dr.GetValue(2).ToString(), host, port_local_to_server)
+                        End While
+                    End If
+                    CliarLocalDB("status")
                 End Using
-            Next index
-
+            End If
         Catch ee As Exception
             ProgrammLog(ee.Message + " - " + Convert.ToString(DateTime.Now) + " - LocalDBToServerDB")
         Finally
@@ -520,7 +528,7 @@ Public Class Main
         End Try
 
     End Sub ' после того как появляется связь с сервером происходит передача данных с локальной базы в серверную базу
-    Private Sub CliarLocalDB()
+    Private Sub CliarLocalDB(tableName As String)
         Dim dbConnection As SQLiteConnection, sqlCommand As SQLiteCommand
         Try
             dbConnection = New SQLiteConnection("Data Source=" + Application.StartupPath + "\Statistics.sqlite ;Version=3;")
@@ -528,9 +536,7 @@ Public Class Main
             sqlCommand = New SQLiteCommand()
             sqlCommand.Connection = dbConnection
 
-            sqlCommand.CommandText = "DELETE FROM line_data"
-            sqlCommand.ExecuteNonQuery()
-            sqlCommand.CommandText = "DELETE FROM status"
+            sqlCommand.CommandText = "DELETE FROM " + tableName
             sqlCommand.ExecuteNonQuery()
             sqlCommand.CommandText = "UPDATE SQLITE_SEQUENCE SET SEQ=0"
             sqlCommand.ExecuteNonQuery()
@@ -544,7 +550,7 @@ Public Class Main
         End Try
     End Sub ' удаляет данные с локальной базы данных после передачи их на сервер
     Private Sub ServerOrLocal(station_Id As String, time As Int32, text As String, numprog As Focas1.ODBPRO, status As String)
-        Dim str1 As String, stateSend As Boolean, tempStr(1) As String
+        Dim str1 As String, stateSend As Boolean ', tempStr(2) As String
 
         Try
             If (ping_f()) Then
@@ -561,17 +567,8 @@ Public Class Main
                     If stateSend = False Then
                         InsertMainTable(station_Id, time, text, Convert.ToString(numprog.mdata) + "*" +
                          Convert.ToString(numprog.data))
-                        countNoConn += 1
-                        tempStr(0) = Convert.ToString(countNoConn)
-                        File.WriteAllLines("saveLocalCount.txt", tempStr)
                     Else
-                        If countNoConn > 0 Then
-                            LocalDBToServerDB()
-                            CliarLocalDB()
-                            countNoConn = 0
-                            tempStr(0) = Convert.ToString(countNoConn)
-                            File.WriteAllLines("saveLocalCount.txt", tempStr)
-                        End If
+                        LocalDBToServerDB()
                     End If
                 End If
             Else
@@ -580,9 +577,6 @@ Public Class Main
                 Else
                     InsertMainTable(station_Id, time, text, Convert.ToString(numprog.mdata) + "*" +
                     Convert.ToString(numprog.data))
-                    countNoConn += 1
-                    tempStr(0) = Convert.ToString(countNoConn)
-                    File.WriteAllLines("saveLocalCount.txt", tempStr)
                 End If
             End If
         Catch ex As Exception
@@ -610,7 +604,6 @@ Public Class Main
         debugOnOff = True   'Для тестов. В состоянии true, игнорирует библиотеку FOCAS
 
         Try
-            countNoConn = Convert.ToUInt32((File.ReadAllLines("saveLocalCount.txt", Encoding.UTF8))(0))
             LoadIni = File.ReadAllLines("IniFile.ini", Encoding.UTF8)
             station_Id = LoadIni(0)
             host = LoadIni(1)
@@ -654,8 +647,9 @@ Public Class Main
 
         If (result = MsgBoxResult.Yes) And My.Computer.Keyboard.CtrlKeyDown Then
             ProgrammLog("Program closing")
-            tempStr(0) = Convert.ToString(countNoConn)
-            File.WriteAllLines("saveLocalCount.txt", tempStr)
+            'tempStr(0) = Convert.ToString(countNoConn(0))
+            ' tempStr(1) = Convert.ToString(countNoConn(1))
+            ' File.WriteAllLines("saveLocalCount.txt", tempStr)
             Dispose()
         Else
             e.Cancel = True

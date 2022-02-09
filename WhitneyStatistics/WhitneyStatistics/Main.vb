@@ -252,7 +252,7 @@ Public Class Main
 
                         If speed_null_bool Then
                             ToolStripStatusLabel1.Text = "STOP"
-                            If (stop_speed = False) Then
+                            If stop_speed = False Then
                                 time = Convert.ToInt32((DateTime.UtcNow - New DateTime(1970, 1, 1)).TotalSeconds)
                                 ServerOrLocal(station_Id, time, "Stop cnc program", numprog, "*")
                                 t_status = "2"
@@ -424,17 +424,20 @@ Public Class Main
         End Try
     End Sub 'отправляет на сервер своё состояние
     Private Function Send_To_Server(data As String, host As String, port As Int32) As Boolean
-        Dim sw As StreamWriter, client As TcpClient
+        Dim sw As StreamWriter, client As TcpClient, stateConn As IAsyncResult, timeOut As Boolean
         Try
             client = New TcpClient()
-            client.Connect(host, port)
+            'client.Connect(host, port)
+            stateConn = client.BeginConnect(host, port, Nothing, Nothing)
+            timeOut = stateConn.AsyncWaitHandle.WaitOne(TimeSpan.FromMilliseconds(500))
 
-            errorToServer = False
-            If client.Connected Then
+            If timeOut Then
+                errorToServer = False
                 sw = New StreamWriter(client.GetStream())
                 sw.AutoFlush = True
                 sw.WriteLine(data) 'отсылаем данные серверу
             Else
+                client.Close()
                 Return False
             End If
             client.Close()
@@ -558,8 +561,10 @@ Public Class Main
                     stateSend = Send_To_Server(station_Id + "," + Convert.ToString(time) + "," + status, host, portStatus)
                     If stateSend = False Then
                         InsertStatusTable(station_Id, time, status)
+                        ToolStripStatusLabel3.Text = "Server disconnected"
+                    Else
+                        ToolStripStatusLabel3.Text = "Server connected"
                     End If
-
                     ToolStripStatusLabel4.Text = status
                 Else
                     str1 = station_Id + "," + Convert.ToString(time) + "," + text + "," + Convert.ToString(numprog.mdata) + "*" + Convert.ToString(numprog.data)
@@ -567,11 +572,14 @@ Public Class Main
                     If stateSend = False Then
                         InsertMainTable(station_Id, time, text, Convert.ToString(numprog.mdata) + "*" +
                          Convert.ToString(numprog.data))
+                        ToolStripStatusLabel3.Text = "Server disconnected"
                     Else
                         LocalDBToServerDB()
+                        ToolStripStatusLabel3.Text = "Server connected"
                     End If
                 End If
             Else
+                ToolStripStatusLabel3.Text = "Server disconnected"
                 If status <> "*" Then
                     InsertStatusTable(station_Id, time, status)
                 Else
@@ -601,7 +609,7 @@ Public Class Main
         plasma_on = False
         errorToServer = False
 
-        debugOnOff = True   'Для тестов. В состоянии true, игнорирует библиотеку FOCAS
+        debugOnOff = False   'Для тестов. В состоянии true, игнорирует библиотеку FOCAS
 
         Try
             LoadIni = File.ReadAllLines("IniFile.ini", Encoding.UTF8)

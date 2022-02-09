@@ -58,3 +58,22 @@ D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\Whitne
 D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\WhitneyStatistics.Main.resources
 D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\WhitneyStatistics.Resources.resources
 D:\PROGRAMMING\C#  Projects\InWorking\ActiveProgramms\Our server programm\WhitneyStatistics_V1.6.2\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\WhitneyStatistics.vbproj.GenerateResource.Cache
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\Whitney Statistics.exe.config
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\Whitney Statistics.exe
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\Whitney Statistics.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\Whitney Statistics.pdb
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\Whitney Statistics.exe
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\Whitney Statistics.pdb
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\Whitney Statistics.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\EntityFramework.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\EntityFramework.SqlServer.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\System.Data.SQLite.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\System.Data.SQLite.EF6.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\System.Data.SQLite.Linq.dll
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\EntityFramework.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\EntityFramework.SqlServer.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\bin\Release\System.Data.SQLite.xml
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\WhitneyStatistics.vbprojResolveAssemblyReference.cache
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\WhitneyStatistics.Main.resources
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\WhitneyStatistics.Resources.resources
+E:\PROGRAMMING\GIT\WhitneyStatistics\WhitneyStatistics\WhitneyStatistics\obj\Release\WhitneyStatistics.vbproj.GenerateResource.Cache
